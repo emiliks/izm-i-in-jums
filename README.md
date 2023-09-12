@@ -1,2 +1,2 @@
-# izm-i-in-jums
+# izmeiginajums
 Šis ir izmeiģinājums.
